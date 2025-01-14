@@ -23,6 +23,7 @@ I'm Sam, and I'm passionate about product engineering and web development. I cre
 big.js used
 chai for UT
 preteeir for fromatting
+Pocket Calculator
 
 ### useful commands to run project
 
